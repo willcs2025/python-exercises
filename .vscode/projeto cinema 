@@ -1,0 +1,8 @@
+idade = int(input("Qual a sua idade? "))
+
+if idade >= 18:
+    print("Acesso liberado! Bom filme.")
+# Como poderíamos adicionar uma condição para quem tem entre 16 e 17 anos 
+# e precisa de autorização?
+else:
+    print("Acesso negado.")

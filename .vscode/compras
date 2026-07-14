@@ -1,0 +1,6 @@
+compras = ["Maçã", "Pão", "Leite", "Café"]
+
+# Use um loop 'for' para percorrer a lista
+for item in compras:
+    # O que você escreveria aqui para imprimir: "Item: [Nome do Item]"?
+    pass
